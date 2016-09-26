@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\dima\IdeaProjec(1)\jedux-master\jedux-master\example-counter\build\intermediates\exploded-aar\co.trikita\anvil-sdk15\0.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="718ae8b7a2285b928868b28e1471fbaf32b0d83f">
+        <dex dex="D:\dima\IdeaProjec(1)\jedux-master\jedux-master\example-counter\build\intermediates\pre-dexed\debug\co.trikita-anvil-sdk15-0.2.0_75e347fd0c262fe77b7ae69e3bf2d7cf09860616.jar" />
+    </item>
+    <item
+        jar="D:\dima\IdeaProjec(1)\jedux-master\jedux-master\example-counter\build\intermediates\exploded-aar\jedux-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fd44c6d5c60bef908c114f8f0337adddd0518b7">
+        <dex dex="D:\dima\IdeaProjec(1)\jedux-master\jedux-master\example-counter\build\intermediates\pre-dexed\debug\jedux-master-library-unspecified_42690cc8de059d088dc9bc91cf4728e47a85f369.jar" />
+    </item>
+
+</items>
